@@ -15,5 +15,5 @@ This is an implementation of Frogger game where user has to go through a lane an
 * Up Arrow: move up
 
 ## How to run:
-1. [Download or Clone]() the Repository.
+1. [Download or Clone](https://github.com/nithya693/Arcade-Game.git) the Repository.
 2. Open `index.html` file to view the project in your browser.
